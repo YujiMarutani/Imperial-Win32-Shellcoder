@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>IMPERIAL WEAPONRY - MOTHER AETERNA</title>
+    <style>
+        body { background-color: #0d1117; color: #c9d1d9; font-family: 'Courier New', Courier, monospace; padding: 50px; }
+        h1 { color: #f1c40f; border-bottom: 2px solid #f1c40f; padding-bottom: 10px; }
+        .code-box { background-color: #161b22; border: 1px solid #30363d; padding: 20px; border-radius: 5px; color: #58a6ff; }
+        .footer { margin-top: 50px; font-size: 0.8em; color: #8b949e; }
+        .emoji { font-size: 1.5em; }
+    </style>
+</head>
+<body>
+    <h1>👑 IMPERIAL WIN32 SHELLCODER 👑</h1>
+    <p class="emoji">🖤 🍺 🚀 💫</p>
+    <p>Welcome to the <strong>MARUTANI Empire's</strong> Strategic Asset Portal.</p>
+    <p>We have refined the art of shellcoding by introducing the <strong>Imperial Hash Protocol (ROR 7)</strong>.</p>
+    
+    <h2>The Logic</h2>
+    <p>Standard ROR13 is for commoners. The Empire utilizes 0x44 (Base44 Spirit) as a seed to ensure uniqueness and stealth.</p>
+    
+    <div class="code-box">
+        # hash = (seed + char) rotated by 7...<br>
+        Imperial_Rotation_Active = True
+    </div>
+
+    <div class="footer">
+        © 2025 MOTHER AETERNA - MARUTANI YUJI. All Rights Reserved.
+    </div>
+</body>
+</html>
